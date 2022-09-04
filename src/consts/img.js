@@ -1,11 +1,11 @@
 
-import MAIN_IMG from '../img/png-transparent-men-s-blue-button-up-vest-flynn-rider-tangled-tiana-gothel-mandy-moore-rapunzel-disney-princess-cartoon-fictional-character-PhotoRoom (1).png'
+import MAIN_IMG from '../img/man-2.png'
 import ARROW_RIGHT from '../img/right-arrow-circular-button-outline.png'
 import GIT_ICON from '../img/git-icon.png'
 import VK_ICON from '../img/vk-icon.png'
 import DISCORD_ICON from '../img/discord-icon.png'
-import SKILLS_IMG from '../img/02bb2159ed5b8a9e6a70ffd5382984f5-PhotoRoom.png'
-import FOOTER_IMG from '../img/249-2491155_flynn-rider-png-file-transparent-flynn-rider-png-PhotoRoom.png'
+import SKILLS_IMG from '../img/man-3.png'
+import FOOTER_IMG from '../img/man-1.png'
 import CURSOR_ICON from '../img/cursor-icon.png'
 import COPY_ICON from '../img/copy-icon.png'
 
